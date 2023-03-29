@@ -103,11 +103,11 @@ Prims is used between areas in a city. The reason for using this is that we want
 
 3.Abbotabad
 
-![](/images/77.png)
+![](/images/99.png)
 
 4.Lahore
 
-![](/images/99.png)
+![](/images/77.png)
 
 5.Karachi
 
