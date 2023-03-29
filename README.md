@@ -39,7 +39,7 @@ Graphs has been used in the project to show the areas where the parcel can be de
 
 
 
-![](../images/11.png)
+![](/images/11.png)
 
 
 ## Implemented Data Structures
