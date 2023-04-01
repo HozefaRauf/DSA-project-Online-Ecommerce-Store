@@ -42,23 +42,6 @@ Graphs has been used in the project to show the areas where the parcel can be de
 ![](/images/11.png)
 
 
-## Implemented Data Structures
-•	Linked List:
-
-Linked lists are a data structure that allows for efficient insertion and deletion of elements.
-
-Reason
-
-The program uses linked lists to manage customer information and orders. The data of user (Delivery, Take Away) is saved in the linked List. We used Linked List instead of array because of dynamic size.
-
-•	AVL (Adelson-Velsky and Landis) tree:
-
-The AVL tree is a self-balancing binary search tree that is well-suited for storing large amounts of data and allows for fast insertion, deletion, and searching operations.
-
-Reason
-
-The AVL, for example, will be used to efficiently manage and maintain the store's inventory. All the operations of take away user is handled using AVL tree.  The operations like searching, deletion, insertion is done in a better way. The insertion and deletion is done by order ID that is given by the user.
-
 •	Graphs:
 
 Graphs has been used in the project to show the areas where the parcel can be delivered. Graphs are represented through adjacency matrix.
